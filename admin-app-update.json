@@ -1,8 +1,8 @@
 {
-  "versionCode": 355,
-  "versionName": "3.5.5",
-  "title": "BONDOK Admin Update v3.5.5",
+  "versionCode": 356,
+  "versionName": "3.5.6",
+  "title": "BONDOK Admin Update v3.5.6",
   "message": "A new BONDOK Admin version is available.",
-  "apkUrl": "https://github.com/toqafahmy66-star/bondok-admin-updates/releases/download/v3.5.5/BONDOK-ADMIN-V3.5.5.apk",
-  "required": false
+  "apkUrl": "https://github.com/toqafahmy66-star/bondok-admin-updates/releases/download/v3.5.6/BONDOK-Admin-v3.5.6.apk",
+  "required": true
 }
